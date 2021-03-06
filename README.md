@@ -35,6 +35,6 @@ $ python frequentWordFinder.py -d 1 -m 100 aliceInput/
 
 ## Authors
 
-The authors of this repository are Filipe Pires and João Alegria, and the project was developed for the Computational Infrastructures Management Course of the Master's degree in Informatics Engineering of the University of Aveiro.
+The authors of this repository are Filipe Pires and João Alegria, and the project was developed for the Advanced Algorithms Course of the Master's degree in Informatics Engineering of the University of Aveiro.
 
 For further information, please read our [report](https://github.com/FilipePires98/FastCount/blob/master/report/report.pdf) or contact us at filipesnetopires@ua.pt or joao.p@ua.pt.
