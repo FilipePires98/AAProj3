@@ -1,6 +1,12 @@
 # Frequent Items Counting
 A Study on Memory-Efficient Algorithms
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/Made%20With-Python-blue)
+[![](https://img.shields.io/badge/Dataset-Project%20Gutenberg-lightgrey.svg?style=flat)](https://www.gutenberg.org/)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 Determining the most frequent items on a data stream has many applications and is a hot topic on the research community of the field.
